@@ -1,5 +1,18 @@
 # Introduction to docker
 
+[![CodeFactor](https://www.codefactor.io/repository/github/everlookneversee/introduction-to-docker/badge)](https://www.codefactor.io/repository/github/everlookneversee/introduction-to-docker)
+![GitHub](https://img.shields.io/github/license/EverLookNeverSee/introduction-to-docker)
+![GitHub branch checks state](https://img.shields.io/github/checks-status/EverLookNeverSee/introduction-to-docker/main)
+![GitHub language count](https://img.shields.io/github/languages/count/EverLookNeverSee/introduction-to-docker)
+![GitHub top language](https://img.shields.io/github/languages/top/EverLookNeverSee/introduction-to-docker)
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/EverLookNeverSee/introduction-to-docker)
+![Lines of code](https://img.shields.io/tokei/lines/github/EverLookNeverSee/introduction-to-docker)
+![GitHub all releases](https://img.shields.io/github/downloads/EverLookNeverSee/introduction-to-docker/total)
+![GitHub issues](https://img.shields.io/github/issues-raw/EverLookNeverSee/introduction-to-docker)
+![GitHub pull requests](https://img.shields.io/github/issues-pr-raw/EverLookNeverSee/introduction-to-docker)
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/EverLookNeverSee/introduction-to-docker)
+![GitHub contributors](https://img.shields.io/github/contributors/EverLookNeverSee/introduction-to-docker)
+![GitHub last commit](https://img.shields.io/github/last-commit/EverLookNeverSee/introduction-to-docker)
 
 ### Author
 Milad sadeghi DM - [EverLookNeverSee@GitHub](https://github.com/everlookneversee)
