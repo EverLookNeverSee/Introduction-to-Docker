@@ -38,6 +38,8 @@ Milad sadeghi DM - [EverLookNeverSee@GitHub](https://github.com/everlookneversee
 * Chapter 09 - Practical Examples
 * Chapter 10 - Introduction to kubernetes
 
+#### This project is under active development.
+
 ---
 
 ### License
