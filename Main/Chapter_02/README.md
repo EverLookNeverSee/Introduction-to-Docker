@@ -42,7 +42,7 @@ systemctl start docker
 ```shell
 systemctl enable docker
 ```
-10. Run docker *hello-world* container in order to make sure that you install docker successfully:
+10. Run docker *hello-world* container in order to make sure that you installed docker successfully:
 ```shell
 docker container run hello-world
 ```
