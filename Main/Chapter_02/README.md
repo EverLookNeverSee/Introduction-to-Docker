@@ -46,3 +46,5 @@ systemctl enable docker
 ```shell
 docker container run hello-world
 ```
+
+**Note:** Don't forget to take a snapshot of existing docker lab; we will use it in further chapters.
