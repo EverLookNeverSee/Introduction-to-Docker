@@ -15,3 +15,13 @@ docker --help
 ```
 
 ---
+
+### Docker commands pattern:
+```shell
+docker <Management Comamnds>  <Sub-Commands>  <Options>
+```
+* **Management commands:** container, image, network, ...  
+* **Sub-commands:** run, ls, logs, rm, ...  
+* **Options:** --name, -p, -f, -d, ...
+
+---
